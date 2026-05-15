@@ -1,3 +1,8 @@
+# MOVED
+To: https://git.keeler.world/scion/arbitrader
+
+This code is not actively maintained anymore due to US regulations on cryptocurrency trading.
+
 # Arbitrader
 ![AWS CodeBuild](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiUnhycTV0MEFLb293K1Y0QlBjOUxESnBaWXM3V3BLMGhEU2Zjcm0yWHpnRGhFdmxYWm45M2dqVU1ZUjRSdldhR0NsUEYyWk0xVWJZUVZBUXhGZmJUZjhrPSIsIml2UGFyYW1ldGVyU3BlYyI6InNER0tuUnhKQ0pUMVhTUVAiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)  
 [![Discord](https://img.shields.io/discord/767482695323222036?logo=Discord)](https://discord.gg/ZYmG3Nw)
